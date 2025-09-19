@@ -2,3 +2,4 @@
 
 Notes and usage details for ai-auto-work.
 - fix a small wording issue
+- add a note about the defaults
