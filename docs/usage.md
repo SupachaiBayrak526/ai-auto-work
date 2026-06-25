@@ -16,3 +16,4 @@ Notes and usage details for ai-auto-work.
 - clarify the setup steps
 - fix a small wording issue
 - link the usage section
+- link the usage section
